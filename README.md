@@ -7,6 +7,7 @@ solving problem in Leet Code and gaining knowledge in programming and upscaling 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MadhanDasari/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/MadhanDasari/LeetCode-DSA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/MadhanDasari/LeetCode-DSA/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -16,4 +17,5 @@ solving problem in Leet Code and gaining knowledge in programming and upscaling 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/MadhanDasari/LeetCode-DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/MadhanDasari/LeetCode-DSA/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
